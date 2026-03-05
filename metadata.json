@@ -1,0 +1,5 @@
+{
+  "name": "Conexión Profunda",
+  "description": "Un quiz interactivo y adaptativo para parejas impulsado por IA para fortalecer su conexión.",
+  "requestFramePermissions": ["microphone"]
+}
